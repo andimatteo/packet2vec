@@ -1,0 +1,9 @@
+pyshark
+dpkt
+scapy
+numpy
+pandas
+gensim
+scikit-learn
+torch
+tensorboard
