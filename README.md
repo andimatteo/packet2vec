@@ -55,7 +55,7 @@ python src/train_classifier.py \
   --labels data/embeddings/train.pkl \
   --config config.yaml
 ```
-![Classifier architecture](https://i.imgur.com/IK040tk.png)
+![Classifier architecture](https://i.imgur.com/eL6BFwT.png)
 
 Pipeline steps:
 1. Load embeddings & labels.
